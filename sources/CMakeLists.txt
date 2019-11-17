@@ -1,0 +1,1 @@
+add_executable(kwm ./kwm.c)
