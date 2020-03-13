@@ -1,0 +1,3 @@
+/root/kwmusic-kwm-decrypt/sources/CMakeFiles/rebuild_cache.dir
+/root/kwmusic-kwm-decrypt/sources/CMakeFiles/kwm.dir
+/root/kwmusic-kwm-decrypt/sources/CMakeFiles/edit_cache.dir

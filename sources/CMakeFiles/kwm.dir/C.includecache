@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/kwmusic-kwm-decrypt/sources/kwm.c
+kwm.h
+/root/kwmusic-kwm-decrypt/sources/kwm.h
+
+/root/kwmusic-kwm-decrypt/sources/kwm.h
+stdio.h
+-
+stdlib.h
+-
+
