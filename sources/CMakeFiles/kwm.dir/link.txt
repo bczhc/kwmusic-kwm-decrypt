@@ -1,1 +1,0 @@
-/usr/bin/cc   -rdynamic CMakeFiles/kwm.dir/kwm.c.o  -o kwm 
